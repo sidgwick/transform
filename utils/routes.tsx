@@ -105,6 +105,12 @@ export const categorizedRoutes = [
         path: "/json-to-scala-case-class"
       },
       {
+        label: "to Sqlalchemy Model",
+        path: "/json-to-sqlalchemy",
+        packageName: "json-to-sqlalcmemy",
+        packageUrl: "https://github.com/sidgwick/json-to-sqlalchemy"
+      },
+      {
         label: "to Go Struct",
         path: "/json-to-go",
         packageName: "json-to-go",
